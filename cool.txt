@@ -1,5 +1,3 @@
-col
-
 Hello World, lol. 
 
 This is more text, lol.
